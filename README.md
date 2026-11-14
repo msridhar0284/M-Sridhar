@@ -24,20 +24,13 @@
 
 ### 💡 Featured Projects
 
-**1. ResumeRanker – Resume Ranking System**
-
-- Spring Boot-based application for ranking candidates based on skills and experience.
-- Uses weighted scoring with 70% skills and 30% experience.
-- Helps identify suitable candidates based on job requirements.
-- **Technologies:** Java, Spring Boot, SQLite.
-
-**2. GreenEye – AI Anti-Littering Surveillance System**
+**1. GreenEye – AI Anti-Littering Surveillance System**
 
 - AI-powered campus littering detection system.
 - Designed for evidence storage and violation management.
 - **Technologies:** JavaScript, Node.js, Express.js, MongoDB, YOLO.
 
-**3. Python Projects**
+**2. Python Projects**
 
 - Developed Python-based applications and mini projects.
 - Focused on programming fundamentals and logical problem-solving.
