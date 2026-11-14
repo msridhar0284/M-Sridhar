@@ -1,84 +1,58 @@
 # Hi, I'm M Sridhar 👋
 
-### 💻 Software Developer | Java | Python | Machine Learning | Backend Development
+### Computer Science Engineering Student | Java Developer | Python Developer | Software Development
 
-🎓 Computer Science Engineering Student | Raichur, Karnataka, India
+🎓 Computer Science Engineering student at **Navodaya Institute of Technology, Raichur**, graduating in 2027.
 
-Passionate about programming, software development, and building practical applications that solve real-world problems.
+💻 Passionate about building practical applications using Java, Python, Spring Boot, SQL, and modern web technologies.
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🔭 Working on software development and real-world projects.
-- 🌱 Exploring Java, Python, Spring Boot, Machine Learning and Web Development.
-- 🧠 Interested in problem-solving and innovative technologies.
-- 📚 Continuously learning and improving my development skills.
-- 🤝 Open to internships, collaborations and opportunities.
+- 🔭 Working on software development and real-world projects
+- 🌱 Exploring Java, Python, Machine Learning, and Backend Development
+- 🧠 Interested in solving real-world problems through technology
+- 📚 Continuously improving my programming and development skills
+- 🤝 Open to internships, collaborations, and entry-level opportunities
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
-**Programming Languages**
+- **Programming Languages:** Java, Python, C, JavaScript, SQL
+- **Web Development:** HTML, CSS, JavaScript
+- **Backend Development:** Spring Boot
+- **Databases:** MySQL, MongoDB, SQLite
+- **Tools:** Git, GitHub, VS Code
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💡 Featured Projects
 
-**Web & Backend Development**
+**1. ResumeRanker – Resume Ranking System**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- Spring Boot-based application for ranking candidates based on skills and experience.
+- Uses weighted scoring with 70% skills and 30% experience.
+- Helps identify suitable candidates based on job requirements.
+- **Technologies:** Java, Spring Boot, SQLite.
 
-**Databases & Tools**
+**2. GreenEye – AI Anti-Littering Surveillance System**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 💡 Featured Projects
-
-### 1. ResumeRanker – Resume Ranking System
-- Spring Boot-based resume ranking application.
-- Ranks candidates based on skills and experience.
-- Uses weighted scoring (70% skills + 30% experience).
-- Technologies: Java, Spring Boot, SQLite.
-
-### 2. GreenEye – AI Anti-Littering Surveillance System
-- AI-powered campus littering detection concept.
+- AI-powered campus littering detection system.
 - Designed for evidence storage and violation management.
-- Technologies: JavaScript, Node.js, MongoDB, YOLO.
+- **Technologies:** JavaScript, Node.js, Express.js, MongoDB, YOLO.
 
-### 3. Python Projects
-- Python-based applications and programming exercises.
-- Focused on logical thinking and problem-solving.
+**3. Python Projects**
 
-## 📊 GitHub Statistics
+- Developed Python-based applications and mini projects.
+- Focused on programming fundamentals and logical problem-solving.
+- **Technology:** Python.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msridhar0284&show_icons=true&theme=tokyonight&hide_border=true)
+### 🏆 Certifications
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msridhar0284&layout=compact&theme=tokyonight&hide_border=true)
+- Add your completed certifications here.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=msridhar0284&theme=tokyonight&hide_border=true)
+### 📫 Connect With Me
 
-## 🎯 Career Goals
-
-- Become a skilled Software Developer.
-- Build real-world software applications.
-- Gain practical industry experience.
-- Continuously explore emerging technologies.
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-sridhar-0b6b222bb)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/msridhar0284)
-
-📧 Email: msridhar88819@gmail.com
+- **LinkedIn:** [M Sridhar](https://www.linkedin.com/in/m-sridhar-0b6b222bb)
+- **GitHub:** [msridhar0284](https://github.com/msridhar0284)
+- **Email:** msridhar88819@gmail.com
 
 ---
 
-⭐ **Always learning, building, and improving!**
-
+⭐ *Always learning, building, and improving.*
